@@ -1,3 +1,2 @@
-==README
-
+==Shouter
 I built this twitter-like rails app as an exercise for Upcase's Intermediate Ruby on Rails workshop.
